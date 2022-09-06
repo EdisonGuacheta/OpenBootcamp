@@ -22,7 +22,7 @@ public class App {
 }
 
 class coche{
-    public double puertas = 5;
+    public int puertas = 5;
 
     public void maspuerta(){
         puertas = puertas + 1;
