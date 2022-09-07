@@ -1,5 +1,3 @@
-import javax.management.loading.PrivateClassLoader;
-
 public class OrientadoObj {
     public static void main(String[] args) throws Exception {
 
